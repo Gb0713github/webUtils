@@ -12,6 +12,5 @@ public class Main {
         String t = sdf.format(date2);
         System.out.println(s);
         System.out.print(t);
-
     }
 }
